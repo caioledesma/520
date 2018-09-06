@@ -1,0 +1,26 @@
+Anotações 
+
+
+quando é chave {} é um dicionário 
+quando é objeto []
+quando é função ()
+
+numa lista de dicionário antes do dosi pontos : um são as chaves e os segundos são os valores 
+
+format é a função pra pegar as informações só... complicado 
+
+dá pra usar a função {} pra formatar 
+
+onde posso ver uma explicação geral de python? 
+
+palavras reservadas são palavras da propria linguagem, eviatr de usar, módulos é a msm coisa, descobrir o nome dos módulso e nao usar eles
+
+tuplas são com []... listas são () 
+
+// isso é divisão inteira
+** isso é potencia 
+raiz quadrada é **0,5
+
+DUVIDA AQUI - as chaves numa linha ela sempre pega a variável da frente, o numero de chaves tem q ser igual o numero de variáveis
+
+
