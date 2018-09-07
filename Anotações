@@ -24,3 +24,24 @@ raiz quadrada é **0,5
 DUVIDA AQUI - as chaves numa linha ela sempre pega a variável da frente, o numero de chaves tem q ser igual o numero de variáveis
 
 
+Colinha:
+
+https://1drv.ms/b/s!AkrLlnCoIiivlmbVWjpdPl2HGCsy
+sudo apt-get update
+sudo apt-get install python3-pip
+sudo pip3 install bpython
+sudo pip3 install ipython
+
+sudo su
+systemctl stop jenkins
+systemctl stop postgresql
+systemctl stop mongodb
+systemctl stop mysql
+
+systemctl disable
+
+ss -ntlp
+
+
+
+
